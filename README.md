@@ -1,3 +1,3 @@
 # Programowanie-obiektowe
-Ćwiczenia z programowania obiektowego
-tak.
+Ćwiczenia z programowania obiektowego.
+Tak.
