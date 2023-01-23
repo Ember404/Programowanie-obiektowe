@@ -42,11 +42,20 @@ public class World {
         }
     }
 
+
     public static void main(String[] args) {
-        String[] moves = new String[] {"l", "r", "b","f"};
+
+        String[] moves = new String[] {"l", "r", "b","f","r"};
         System.out.println("System wystartował");
-        conv(moves);
+        //conv(moves);
         //metoda run jest wywoływana w funkcji conv
+        Vector2d position1 = new Vector2d(1,2);
+        System.out.println(position1);
+        Vector2d position2 = new Vector2d(-2,1);
+        System.out.println(position2);
+        System.out.println(position1.add(position2));
+        //System.out.println(MapDirection.NORTH.next());
+        //System.out.println(position1.equals(position2));
         System.out.println("System zakończył działanie");
     }
 }
