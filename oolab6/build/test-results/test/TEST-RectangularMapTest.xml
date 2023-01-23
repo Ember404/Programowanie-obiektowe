@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RectangularMapTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-23T12:07:17" hostname="EMBER-LEGION" time="0.019">
+  <properties/>
+  <testcase name="objectAtTest()" classname="RectangularMapTest" time="0.016"/>
+  <testcase name="isOccupiedTest()" classname="RectangularMapTest" time="0.001"/>
+  <testcase name="CanMoveToTest()" classname="RectangularMapTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
